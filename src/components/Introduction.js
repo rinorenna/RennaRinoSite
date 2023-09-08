@@ -8,14 +8,14 @@ export default function Introduction({ lang }) {
                 <h3 className='text-2xl py-2 md:3-xl'>Ingegnere Informatico</h3>}
             {lang === 'en' ?
                 <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-gray-300" >
-                    I will be graduating as computer engineer in september of this year at <a href="https://www.supsi.ch/dti_en.html" className='p-1  font-bold underline text-purple-500'>SUPSI</a>.
-                    I am currently working on my thesis project, but I am also open to new opportunities for my future after graduating.
+                    Recent graduate in computer engineering at <a href="https://www.supsi.ch/dti_en.html" className='p-1  font-bold underline text-purple-500'>SUPSI</a>.
+                    I am open to new opportunities for my future.
                     I love what I do and am always looking for new challenges, I am resourceful and autonomous, always looking for a better solution
                 </p>
                 :
                 <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-gray-300" >
-                    Mi laureerò in ingegneria informatica a settembre di quest'anno presso <a href="https://www.supsi.ch/dti_en.html" className='p-1 font-bold underline text-purple-500'>SUPSI</a>.
-                    Attualmente sto lavorando al mio progetto di tesi, ma sono anche aperto a nuove opportunità per il mio futuro dopo la laurea.
+                    Neolaureato in ingegneria informatica presso <a href="https://www.supsi.ch/dti_en.html" className='p-1 font-bold underline text-purple-500'>SUPSI</a>.
+                    Sono aperto a nuove opportunità per il mio futuro.
                     Amo ciò che faccio e sono sempre alla ricerca di nuove sfide, sono intraprendetente e autonomo, sempre alla ricerca di una soluzione migliore.
                 </p>
             }
