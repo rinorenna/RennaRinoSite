@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RennaRinoSite/static/css/main.1c8a721c.css",
-    "main.js": "/RennaRinoSite/static/js/main.1ed453b6.js",
+    "main.css": "/RennaRinoSite/static/css/main.4bab930b.css",
+    "main.js": "/RennaRinoSite/static/js/main.bc5d06b3.js",
     "static/media/memoji.png": "/RennaRinoSite/static/media/memoji.a454e584b32cd37f5826.png",
     "index.html": "/RennaRinoSite/index.html",
-    "main.1c8a721c.css.map": "/RennaRinoSite/static/css/main.1c8a721c.css.map",
-    "main.1ed453b6.js.map": "/RennaRinoSite/static/js/main.1ed453b6.js.map"
+    "main.4bab930b.css.map": "/RennaRinoSite/static/css/main.4bab930b.css.map",
+    "main.bc5d06b3.js.map": "/RennaRinoSite/static/js/main.bc5d06b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c8a721c.css",
-    "static/js/main.1ed453b6.js"
+    "static/css/main.4bab930b.css",
+    "static/js/main.bc5d06b3.js"
   ]
 }
